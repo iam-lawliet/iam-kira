@@ -1,5 +1,5 @@
 
-<img align="center" width="100%" height="500" src="https://www.pixelstalk.net/wp-content/uploads/images5/The-best-4K-Programming-Wallpaper-HD.jpg"  />
+<img align="center" width="80%" height="500" src="https://www.pixelstalk.net/wp-content/uploads/images5/The-best-4K-Programming-Wallpaper-HD.jpg"  />
 <br clear="both">
 
 <h1 align="left">Hey 👋 What's up?</h1>
