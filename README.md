@@ -2,21 +2,23 @@
 <img align="center" width="80%" height="500" src="https://www.pixelstalk.net/wp-content/uploads/images5/The-best-4K-Programming-Wallpaper-HD.jpg"  />
 <br clear="both">
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 What's up?</h1>
 
 
 ###
-
+<div align="left">
 <p align="left">My name is <b><em>Vijay Biradar</em></b> and I'm a skilled programmer from India.</p>
-
+  
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-126-blue)
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50%20Thousand%20lines%20of%20code-blue)
+<div align="right">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="500"/>
+  </div>
 
+</div>
 ###
 
 <br clear="both">
-
-
 
 ###
 
