@@ -12,12 +12,11 @@
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-126-blue)
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50%20Thousand%20lines%20of%20code-blue)
 <div align="right">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="500"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="450"/>
   </div>
 
 
 <h2 align="left">About me</h2>
-
 ###
 
 <p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning ML/AI<br>🎯 Goals: ...<br>🎲 Fun fact: Thinking about goals all the time.</p>
