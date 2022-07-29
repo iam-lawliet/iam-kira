@@ -1,11 +1,13 @@
+
+<img align="center" width="100%" height="500" src="https://www.pixelstalk.net/wp-content/uploads/images5/The-best-4K-Programming-Wallpaper-HD.jpg"  />
 <br clear="both">
-<img align="right" height="200" src="https://www.pixelstalk.net/wp-content/uploads/images5/The-best-4K-Programming-Wallpaper-HD.jpg"  />
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 
 ###
 
-<p align="left">My name is Vijay Biradar and I'm a skilled programmer from India.</p>
+<p align="left">My name is <b><em>Vijay Biradar</em></b> and I'm a skilled programmer from India.</p>
 
 ###
 
