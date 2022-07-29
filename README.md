@@ -15,7 +15,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="500"/>
   </div>
 
-</div>
+
 ###
 
 <br clear="both">
@@ -27,7 +27,7 @@
 ###
 
 <p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning ML/AI<br>🎯 Goals: ...<br>🎲 Fun fact: Thinking about goals all the time.</p>
-
+</div>
 ###
 
 <h2 align="left">I code with</h2>
