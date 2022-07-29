@@ -22,29 +22,27 @@
 
 ### - I'm Vijay Biradar Machine Learning & Artificial Intelligence Enthusiast from India.![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50%20Thousand%20lines%20of%20code-blue)
   
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="450"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs" align="right" width="500"/>
 <!-- <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif"> -->
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning ML/AI<br>🎯 Goals: ...<br>🎲 Fun fact: Thinking about goals all the time.</p>
+<p align="left">✨ Creating bugs since 2020<br>🎯 Goals: ...<br>🎲 Fun fact: Thinking about goals all the time.</p>
 
-### - Learning :
+### - 📚 Learning :
 - ✨ Data Structures & Algorithms
 - ✨ Machine Learning
 
 ### - Hobbies : 
 - ✨ Gaming Addict
 - ✨ Watching Anime
-- ✨ Reading Light Novels
+- ✨ Reading Manga's
 - ✨ Badminton (Neighbourhood Professional XD)
-
-
 
 </br>
 </br>
 </br>
 <!-- <h2 align="left">About me</h2> -->
 
-# Languages & Tools 👨‍💻 🛠:
+# Languages 👨‍💻 🛠:
 </br>
 <div align="center">
   
@@ -89,10 +87,17 @@
 <!-- ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8) -->
 
 
-## 🗂️ Highlight Projects
+# Contact Me :
 
-<h2 align="left">Get in touch with me !</h2>
-<br clear="both">
+<p>
+ </br>
+
+
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+
+
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😃.
+
 <div align="left">
   <a href="https://discord.com/channels/@me" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
@@ -116,16 +121,18 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+ </p>
+ 
 
-###
-<div align="center" >
-<a  href="https://github.com/iam-kira">
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
-</a>
-
-
-</div>
-
+<!-- ## 🗂️ Highlight Projects -->
 
 
 ###
