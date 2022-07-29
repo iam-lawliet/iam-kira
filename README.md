@@ -1,3 +1,4 @@
+###
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
 </div>
@@ -7,28 +8,45 @@
 
 
 
-<div align="left">
-<p align="left">My name is <b><em>Vijay Biradar</em></b> and I'm a skilled programmer from India.</p>
+<!-- <div align="left"> -->
+<!-- <p align="left">My name is <b><em>Vijay Biradar</em></b> and I'm a skilled programmer from India.</p> -->
   
 <!-- ![Profile Views](http://img.shields.io/badge/Profile%20Views-126-blue) -->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50%20Thousand%20lines%20of%20code-blue)
-<div align="right">
+
+<!-- <div align="right"> -->
+  
+
+<!--   </div> -->
+
+  About ME 💬 :
+
+### - I'm Vijay Biradar Machine Learning & Artificial Intelligence Enthusiast from India.![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50%20Thousand%20lines%20of%20code-blue)
   
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="450"/>
-  </div>
-
-
-<h2 align="left">About me</h2>
- 
+<!-- <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif"> -->
 
 <p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning ML/AI<br>🎯 Goals: ...<br>🎲 Fun fact: Thinking about goals all the time.</p>
-</div>
 
-<h2 align="left">I code with</h2>
+### - Learning :
+- ✨ Data Structures & Algorithms
+- ✨ Machine Learning
 
-###
+### - Hobbies : 
+- ✨ Gaming Addict
+- ✨ Watching Anime
+- ✨ Reading Light Novels
+- ✨ Badminton (Neighbourhood Professional XD)
 
-<div align="left">
+
+
+</br>
+</br>
+</br>
+<!-- <h2 align="left">About me</h2> -->
+
+# Languages & Tools 👨‍💻 🛠:
+</br>
+<div align="center">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
@@ -45,6 +63,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
 </div>
+
+</br>
+</br>
+</br>
+
+<!-- <h2 align="left">I code with</h2> -->
+
+###
+
+
 
 ###
 ## 🔧 Technologies & Tools
