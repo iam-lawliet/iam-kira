@@ -9,7 +9,7 @@
 <div align="left">
 <p align="left">My name is <b><em>Vijay Biradar</em></b> and I'm a skilled programmer from India.</p>
   
-![Profile Views](http://img.shields.io/badge/Profile%20Views-126-blue)
+<!-- ![Profile Views](http://img.shields.io/badge/Profile%20Views-126-blue) -->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50%20Thousand%20lines%20of%20code-blue)
 <div align="right">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="450"/>
