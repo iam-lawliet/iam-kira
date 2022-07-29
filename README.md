@@ -43,7 +43,7 @@
 </br>
 <!-- <h2 align="left">About me</h2> -->
 
-# Languages 👨‍💻 🛠:
+# Languages 👨‍💻 :
 </br>
 <div align="center">
   
@@ -74,7 +74,7 @@
 
 
 ###
-## 🔧 Technologies & Tools
+## 🛠 Technologies & Tools
 
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=voilet)
