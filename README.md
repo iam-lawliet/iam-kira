@@ -69,10 +69,6 @@
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/iam-kira/react-admin-bootstrap">
-  <img align="center" src="https://react-admin-test-omega.vercel.app/api/pin/?username=iam-kira&repo=react-admin-bootstrap&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="react-admin-bootstrap" />
-</a>
-
 <h2 align="left">Get in touch with me !</h2>
 
 ###
