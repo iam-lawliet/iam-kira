@@ -101,7 +101,19 @@
 </div>
 
 ###
+<div align="center" >
+<a  href="https://github.com/iam-kira">
 
+
+</a>
+
+
+<hr></hr>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="700"/><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="300"/>
+
+</div>
 <div align="center">
   <img src="https://profile-counter.glitch.me/iam/count.svg?"  />
 </div>
