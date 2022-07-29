@@ -1,13 +1,10 @@
 
 <h1 align="center">Hey 👋 What's up?</h1>
-###
+
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/iam-kira/iam-kira/blob/main/Konichiwa.gif">
 </div>
 <br clear="both">
-
-
-
 
 <!-- <div align="left"> -->
 <!-- <p align="left">My name is <b><em>Vijay Biradar</em></b> and I'm a skilled programmer from India.</p> -->
