@@ -5,7 +5,7 @@
 <h1 align="center">Hey 👋 What's up?</h1>
 
 
-###
+
 <div align="left">
 <p align="left">My name is <b><em>Vijay Biradar</em></b> and I'm a skilled programmer from India.</p>
   
@@ -17,11 +17,10 @@
 
 
 <h2 align="left">About me</h2>
-### ###
+  ###
 
 <p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning ML/AI<br>🎯 Goals: ...<br>🎲 Fun fact: Thinking about goals all the time.</p>
 </div>
-### ###
 
 <h2 align="left">I code with</h2>
 
