@@ -17,7 +17,7 @@
 
 
 <h2 align="left">About me</h2>
-  ###
+ 
 
 <p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning ML/AI<br>🎯 Goals: ...<br>🎲 Fun fact: Thinking about goals all the time.</p>
 </div>
