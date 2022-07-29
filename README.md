@@ -62,7 +62,6 @@
 ## 🗂️ Highlight Projects
 
 <h2 align="left">Get in touch with me !</h2>
-###
 <br clear="both">
 <div align="left">
   <a href="https://discord.com/channels/@me" target="_blank">
