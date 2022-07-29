@@ -20,7 +20,8 @@
 
   About ME 💬 :
 
-### - I'm Vijay Biradar, Machine Learning & Artificial Intelligence Enthusiast from India.![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50%20Thousand%20lines%20of%20code-blue)
+### - I'm Vijay Biradar, Machine Learning & Artificial Intelligence Enthusiast from India.
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50%20Thousand%20lines%20of%20code-blue)
   
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs" align="right" width="500"/>
 <!-- <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif"> -->
