@@ -33,6 +33,7 @@
 ###
 
 <div align="left">
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
@@ -108,9 +109,17 @@
 
 
 </div>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/iam/count.svg?"  />
-</div>
+
 
 
 ###
+<div align="center" >
+<hr></hr>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="700"/><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="300"/>
+
+</div>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/iam/count.svg?"  />
+</div>
