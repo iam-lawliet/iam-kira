@@ -122,18 +122,10 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   </a>
 </div>
  </p>
- 
-
 </br>
 </br>
 </br>
 </br>
-</br>
-</br>
-</br>
-
-<!-- ## 🗂️ Highlight Projects -->
-
 
 ###
 <div align="center" >
