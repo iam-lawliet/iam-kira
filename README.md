@@ -27,7 +27,7 @@
 
 ### - 📚 Learning :
 - ✨ Data Structures & Algorithms
-- ✨ Machine Learning
+- ✨ Machine Learning 
 
 ### - Hobbies : 
 - ✨ Gaming Addict
